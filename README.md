@@ -1,4 +1,5 @@
 # Scripts
+New! Hello 2026: Useful scripts for interacting with Civitai via Python! Check the /examples/ directory for the scripts!
 Useful scripts for Unity Engine Projects
 
 Starter Assets for First and Third person controllers
